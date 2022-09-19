@@ -1,8 +1,8 @@
-</div>
+
 <div class="dropdown">
-  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Which Page?
-  </a>
+ <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+  Which Page?
+  </button>
 
   <ul class="dropdown-menu">
     <li><a class="dropdown-item" href="table1.php">Table 1</a></li>

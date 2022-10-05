@@ -19,15 +19,15 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Start Here!
+            Non-Relevant Dropdown
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="page2.html">This Link does work: Page 2!</a></li>
-            <li><a class="dropdown-item" href="#">This Link doesn't go anywhere, but this navbar is 2/8 bootstrap components.</a></li>
+            <li><a class="dropdown-item" href="index.php">Not apart of Assignment</a></li>
+            <li><a class="dropdown-item" href="#">Not apart of the assignment</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>

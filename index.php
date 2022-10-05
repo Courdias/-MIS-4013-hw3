@@ -4,4 +4,5 @@
   include "header.php";
   include "TableChoiceDropdown.php";
 ?>
+  <body>
 </html>

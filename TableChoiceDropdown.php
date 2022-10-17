@@ -6,7 +6,7 @@
     <li><a class="dropdown-item" href="Tinstructor.php">Go to Instructors</a></li>
     <li><a class="dropdown-item" href="Tcourse.php">Go to Courses</a></li>
     <li><a class="dropdown-item" href="Tsection.php">Go to Sections</a></li>
-    <li><a class="dropdown-item" href="instructor-cards.php">Go to Sections</a></li>
+    <li><a class="dropdown-item" href="instructor-cards.php">Go to Instructor Cards</a></li>
     <li><a class="dropdown-item" href="Tstudent.php">Go to Students</a></li>
   </ul>
 </div>
